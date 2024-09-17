@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankitzz</h1>
+<h1 align="center">Hi 👋, I'm Ankit</h1>
 
 - 🔭 I’m interested in developing **Discord bots**
 
